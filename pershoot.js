@@ -78,30 +78,30 @@
     //ViewSonic Gtab and Malata Zpad (Froyo)
     {
         "name": "Kernel 2.6.32.41 - OC-UV-XTRA-VFP_FP",
-        "summary": "0601 - Harmony (Gtab/Zpad - Froyo) - 09:00",
+        "summary": "0603 - Harmony (Gtab/Zpad - Froyo) - 22:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/40/boot-cm_2632.41-oc-uv-xtra-vfp_fp-060111.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/41/boot-cm_2632.41-oc-uv-xtra-vfp_fp-060311.zip"
     },
     //ViewSonic Gtab and Malata Zpad (Gingerbread)
     {
         "name": "Kernel 2.6.32.41 - OC-UV-XTRA-VFP_FP",
-        "summary": "0601 - Harmony (Gtab/Zpad - Gingerbread) - 09:00",
+        "summary": "0603 - Harmony (Gtab/Zpad - Gingerbread) - 22:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/40/boot-cm_2632.41_gb-oc-uv-xtra-vfp_fp-060111.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/41/boot-cm_2632.41_gb-oc-uv-xtra-vfp_fp-060311.zip"
     },
     //ViewSonic Gtab and Malata Zpad [New Bootloader] (Froyo)
     {
         "name": "Kernel 2.6.32.41 - OC-UV-XTRA-VFP_FP - New Bootloader",
-        "summary": "0601 - Harmony (Gtab/Zpad - Froyo) - 09:00",
+        "summary": "0603 - Harmony (Gtab/Zpad - Froyo) - 22:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/40/newbl/boot-cm_2632.41_newbl-oc-uv-xtra-vfp_fp-060111.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/41/newbl/boot-cm_2632.41_newbl-oc-uv-xtra-vfp_fp-060311.zip"
     },
     //ViewSonic Gtab and Malata Zpad [New Bootloader] (Gingerbread)
     {
         "name": "Kernel 2.6.32.41 - OC-UV-XTRA-VFP_FP - New Bootloader",
-        "summary": "0601 - Harmony (Gtab/Zpad - Gingerbread) - 09:00",
+        "summary": "0603 - Harmony (Gtab/Zpad - Gingerbread) - 22:00",
         "device": "harmony",
-        "url": "http://droidbasement.com/gtab/kernels/2632/40/newbl/boot-cm_2632.41_gb_newbl-oc-uv-xtra-vfp_fp-060111.zip"
+        "url": "http://droidbasement.com/gtab/kernels/2632/41/newbl/boot-cm_2632.41_gb_newbl-oc-uv-xtra-vfp_fp-060311.zip"
     }
     //END
     ]
