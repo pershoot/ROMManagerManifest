@@ -8,7 +8,7 @@
     //**************************************
     {
         "name": "Kernel 2.6.35.13 - OC-UV-XTRA-NEON_FP",
-        "summary": "0721 - G2 (Gingerbread) - 12:00",
+        "summary": "0724 - G2 (Gingerbread) - 23:00",
         "device": "vision",
         "url": "http://droidbasement.com/g2/kernels/2635/4/boot-cm_2635.13_gb-oc-uv-xtra-neon_fp-072111.zip"
     },
