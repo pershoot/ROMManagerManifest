@@ -8,9 +8,9 @@
     //**************************************
     {
         "name": "Kernel 2.6.35.14 - OC-UV-XTRA-NEON_FP",
-        "summary": "0803 - G2 (Gingerbread) - 00:30",
+        "summary": "1012 - G2 (Gingerbread) - 20:30",
         "device": "vision",
-        "url": "http://droidbasement.com/g2/kernels/2635/6/boot-cm_2635.14_gb-oc-uv-xtra-neon_fp-080211.zip"
+        "url": "http://droidbasement.com/g2/kernels/2635/7/boot-cm_2635.14_gb-oc-uv-xtra-neon_fp-101211.zip"
     },
     {
         "name": "Kernel 2.6.32.41 - OC-UV-XTRA-NEON_FP",
@@ -29,9 +29,9 @@
     //**************************************
     {
         "name": "Kernel 2.6.38.8 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
-        "summary": "0603 - Nexus (Gingerbread) - 20:00",
+        "summary": "1012 - Nexus (Gingerbread) - 20:30",
         "device": "passion",
-        "url": "http://droidbasement.com/nexus/kernels/2638/8/boot-cm_2638.8_gb-oc-uv-xtra-btn-aud-ram-neon_fp-060311.zip"
+        "url": "http://droidbasement.com/nexus/kernels/2638/9/boot-cm_2638.8_gb-oc-uv-xtra-btn-aud-ram-neon_fp-101211.zip"
     },
     {
         "name": "Kernel 2.6.35.11 – OC-UV-XTRA-BTN-AUD-RAM-NEON_FP",
